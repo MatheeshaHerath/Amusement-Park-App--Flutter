@@ -1,2 +1,2 @@
 # GroupProject
-Our 2 Year Computing Group Project
+Our 2nd Year Computing Group Project
